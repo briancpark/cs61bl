@@ -1,0 +1,18 @@
+[submodule "personal"]
+	path = personal
+	url = git@github.com:Berkeley-CS61B-Student/su20-s98.git
+[submodule "group"]
+	path = group
+	url = git@github.com:Berkeley-CS61B-Student/su20-p329.git
+[submodule "proj/gitlet"]
+	path = proj/gitlet
+	url = git@github.com:briancpark/gitlet.git
+[submodule "proj/bearmaps"]
+	path = proj/bearmaps
+	url = git@github.com:briancpark/bearmaps.git
+[submodule "proj/deques"]
+	path = proj/deques
+	url = git@github.com:briancpark/deques.git
+[submodule "proj/nbody"]
+	path = proj/nbody
+	url = git@github.com:briancpark/nbody.git
