@@ -1,6 +1,6 @@
 # CS 61BL
 
-CS 61BL is Data Structures and Coding Methodology. I took this offering in Summer 2020. This repo contains my development setup and notes.
+CS 61BL is Data Structures and Coding Methodology at UC Berkeley. I took this offering in Summer 2020. This repo contains my development setup and notes.
 
 There is no source code here and the submodules are made private. Please DO NOT contact me for source code.
 
